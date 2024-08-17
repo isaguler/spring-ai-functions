@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-ai-functions
+
+weather:
+  base-url: https://api.weatherstack.com
+  api-key: ${WEATHERSTACK_API_KEY}
